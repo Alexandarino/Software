@@ -27,6 +27,7 @@ def main():
     
     z = divide(z, 0)
     
+    print("------------------")
     print("Result:", z)
 
 if __name__ == "__main__":
