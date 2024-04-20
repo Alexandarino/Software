@@ -29,6 +29,7 @@ def main():
     
     print("------------------")
     print("Result:", z)
+    print("------------------")
 
 if __name__ == "__main__":
     main()
