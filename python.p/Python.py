@@ -6,5 +6,6 @@ print ("this is a new feature 4")
 print ("this is a new feature 5")
 print ("this is a new feature 6")
 print ("this is a new feature 7")
+print ("this is a new feature 8")
 
-# git commit -n -m "new feature 7"
+# git commit -n -m "new feature 8"
